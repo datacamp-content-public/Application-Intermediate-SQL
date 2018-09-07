@@ -1,42 +1,15 @@
 ---
-title: 'Template Chapter 1'
+title: 'We''ll take the CASE'
 description: 'This is a template chapter.'
 ---
 
-## Ex 1.1
+## Insert exercise title here
 
 ```yaml
-type: NormalExercise
-key: d96fe04949
-lang: sql
-xp: 100
-skills: 1
+type: VideoExercise
+key: f7ce69ce8b
+xp: 50
 ```
 
-Do some data science.
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{sql}
-
-```
-
-`@solution`
-```{sql}
-
-```
-
-`@sct`
-```{python}
-
-```
+`@projector_key`
+a0e4ad5a4283c048911ea362f864a109
