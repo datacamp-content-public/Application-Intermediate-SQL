@@ -3,7 +3,7 @@ title: 'We''ll take the CASE'
 description: 'This is a template chapter.'
 ---
 
-## Insert exercise title here
+## Introduction to CASE
 
 ```yaml
 type: VideoExercise
